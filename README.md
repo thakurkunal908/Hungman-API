@@ -3,14 +3,14 @@ Basic Hungman API using express
 
 ## Endpoints :
 
-GET/hungman/animals - Returns List of animals
-GET/hungman/animal - Returns a Random animal from list of animals
+*GET/hungman/animals - Returns List of animals
+*GET/hungman/animal - Returns a Random animal from list of animals
 
-GET/hungman/things - Returns List of things
-GET/hungman/thing - Returns a Random thing from list of things
+*GET/hungman/things - Returns List of things
+*GET/hungman/thing - Returns a Random thing from list of things
 
-GET/hungman/places - Returns List of places
-GET/hungman/place - Returns a Random place from list of things
+*GET/hungman/places - Returns List of places
+*GET/hungman/place - Returns a Random place from list of things
 
 ## Data Format :
 
