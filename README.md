@@ -18,6 +18,6 @@ No Restriction on animal/thing/place object , Any Schema can be used with any pa
 
 ## Run Server :
 
-npm intall : Run once to install all Dependencies (here only Express is used)
-npm start : To start server
+* npm intall : Run once to install all Dependencies (here only Express is used)
+* npm start : To start server
 
