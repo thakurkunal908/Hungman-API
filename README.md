@@ -10,11 +10,11 @@ Basic Hungman API using express
 * GET/hungman/thing - Returns a Random thing from list of things
 
 * GET/hungman/places - Returns List of places
-* GET/hungman/place - Returns a Random place from list of things
+* GET/hungman/place - Returns a Random place from list of places
 
 ## Data Format :
 
-No Restriction on animal/thing/place object , Any Schema can be used with any parameters
+No Restriction on animal/thing/place object schema , Any Schema can be used with any parameters
 
 ## Run Server :
 
